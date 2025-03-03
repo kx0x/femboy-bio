@@ -2,7 +2,7 @@
 
 A beautiful, customizable profile page with a view counter, background music, and smooth animations. Perfect for personal websites and landing pages.
 
-![Preview](https://i.hizliresim.com/smh2xis.jpg?_gl=1*175r8fa*_ga*MjQ0OTgyMDMyLjE3Mzg4MTEzOTQ.*_ga_M9ZRXYS2YN*MTc0MTAzMzk0NS45LjEuMTc0MTAzMzk5MS4xNC4wLjA.)
+![Preview](https://i.hizliresim.com/khcgwqz.gif)
 
 ## 🌟 Features
 
