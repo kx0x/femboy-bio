@@ -2,7 +2,8 @@
 
 A beautiful, customizable profile page with a view counter, background music, and smooth animations. Perfect for personal websites and landing pages.
 
-![Preview](https://s3.gifyu.com/images/bbTNw.gif)
+![chrome_YYQBARXnJP](https://github.com/user-attachments/assets/ebff558b-7877-43a8-b1c7-375cf4547930)
+
 
 ## 🌟 Features
 
